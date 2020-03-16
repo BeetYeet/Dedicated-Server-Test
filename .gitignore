@@ -123,4 +123,5 @@ Temporary Items
 
 Assembly-CSharp.csproj
 Assembly-CSharp-Editor.csproj
-Dedicated_Server_Test.sln
+*.cache
+*.ide

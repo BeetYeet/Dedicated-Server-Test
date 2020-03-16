@@ -33,6 +33,7 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+!/Server/*.*
 *.suo
 *.tmp
 *.user

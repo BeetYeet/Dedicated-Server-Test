@@ -1,0 +1,6 @@
+C:\Users\alfred.engstromer\Game Test Server\Game Test Server\bin\Debug\Game Test Server.exe.config
+C:\Users\alfred.engstromer\Game Test Server\Game Test Server\bin\Debug\Game Test Server.exe
+C:\Users\alfred.engstromer\Game Test Server\Game Test Server\bin\Debug\Game Test Server.pdb
+C:\Users\alfred.engstromer\Game Test Server\Game Test Server\obj\Debug\Game Test Server.csprojAssemblyReference.cache
+C:\Users\alfred.engstromer\Game Test Server\Game Test Server\obj\Debug\Game Test Server.exe
+C:\Users\alfred.engstromer\Game Test Server\Game Test Server\obj\Debug\Game Test Server.pdb
